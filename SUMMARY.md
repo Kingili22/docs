@@ -4,11 +4,15 @@
 
 ## FAQ
 
-## Important
+---
 
-* [Privacy Policy](important/privacy.md)
+* [FAQ](faq-1.md)
 
 ## knowledgebase
 
 * [Inviting Cyclops](knowledgebase/invite.md)
+
+## Important
+
+* [Privacy Policy](important/privacy.md)
 
