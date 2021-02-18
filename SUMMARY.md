@@ -2,6 +2,11 @@
 
 * [Changelog](README.md)
 
+## Important
+
+* [Terms of Service](important/tos.md)
+* [Privacy Policy](important/privacy.md)
+
 ## FAQ
 
 ---
@@ -11,8 +16,4 @@
 ## knowledgebase
 
 * [Inviting Cyclops](knowledgebase/invite.md)
-
-## Important
-
-* [Privacy Policy](important/privacy.md)
 
