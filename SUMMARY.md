@@ -16,4 +16,5 @@
 ## knowledgebase
 
 * [Inviting Cyclops](knowledgebase/invite.md)
+* [Commands](knowledgebase/commands.md)
 
