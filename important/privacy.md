@@ -17,7 +17,7 @@ The data collected by Cyclops is used to provide service\(s\) to you the user. D
 The information we collect may be but not limited to  
 
 
-* Information about Discord objects \(guilds, users, channels etc.\)
+* Information about Discord objects \(guilds, users, channels, etc.\)
 * Information including but not limited to your IP address, country, user agent and the page you visited and how many times you visited it along with how many times you have ran a command along with other statistic data may be collected by us or third-parties such as [cloudflare](https://www.cloudflare.com/)
 
 We store the data on our server and only there, which can only be seen by other developers. Backups are made daily incase of a major failure these are usually purged within 10-15 days but may be held longer for reasons that may or may not be disclosed.
