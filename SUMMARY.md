@@ -2,6 +2,8 @@
 
 * [Changelog](README.md)
 
+## FAQ
+
 ## Important
 
 * [Terms of Service](important/tos.md)
@@ -11,8 +13,6 @@
 
 * [Inviting Cyclops](knowledgebase/invite.md)
 * [Commands](knowledgebase/commands.md)
-
-## FAQ
 
 ---
 
